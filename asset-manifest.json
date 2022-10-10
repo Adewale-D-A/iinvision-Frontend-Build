@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f70663ac.css",
+    "main.js": "/static/js/main.6e78f0cf.js",
+    "static/media/pizza_display.jpg": "/static/media/pizza_display.473a2b23e46594324514.jpg",
+    "static/media/chef-login-img.jpg": "/static/media/chef-login-img.c7a5802f8a37c5c8d9b9.jpg",
+    "static/media/pizza_display_2.jpg": "/static/media/pizza_display_2.af35f0a27b828d8725c9.jpg",
+    "static/media/pizza_display_1.jpg": "/static/media/pizza_display_1.f6a868d9f94dbf816b8f.jpg",
+    "static/media/real.png": "/static/media/real.ec62413b402850172925.png",
+    "static/media/Exo2-Regular.ttf": "/static/media/Exo2-Regular.0305039fee62c2e6a71f.ttf",
+    "static/media/DancingScript-Regular.ttf": "/static/media/DancingScript-Regular.5bfc0dcc0c0ff5a2832e.ttf",
+    "static/media/YanoneKaffeesatz-SemiBold.ttf": "/static/media/YanoneKaffeesatz-SemiBold.b3a7b5b6aa1a94f021b2.ttf",
+    "static/media/noise-10.png": "/static/media/noise-10.9f0a1dd2a74cbd57997f.png",
+    "index.html": "/index.html",
+    "main.f70663ac.css.map": "/static/css/main.f70663ac.css.map",
+    "main.6e78f0cf.js.map": "/static/js/main.6e78f0cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f70663ac.css",
+    "static/js/main.6e78f0cf.js"
+  ]
+}
