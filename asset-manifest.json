@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.7537cf1d.css",
-    "main.js": "/static/js/main.2fcd851f.js",
+    "main.js": "/static/js/main.bad0e957.js",
     "static/media/pizza_display.jpg": "/static/media/pizza_display.473a2b23e46594324514.jpg",
     "static/media/chef-login-img.jpg": "/static/media/chef-login-img.c7a5802f8a37c5c8d9b9.jpg",
     "static/media/pizza_display_2.jpg": "/static/media/pizza_display_2.af35f0a27b828d8725c9.jpg",
@@ -13,10 +13,10 @@
     "static/media/noise-10.png": "/static/media/noise-10.9f0a1dd2a74cbd57997f.png",
     "index.html": "/index.html",
     "main.7537cf1d.css.map": "/static/css/main.7537cf1d.css.map",
-    "main.2fcd851f.js.map": "/static/js/main.2fcd851f.js.map"
+    "main.bad0e957.js.map": "/static/js/main.bad0e957.js.map"
   },
   "entrypoints": [
     "static/css/main.7537cf1d.css",
-    "static/js/main.2fcd851f.js"
+    "static/js/main.bad0e957.js"
   ]
 }
